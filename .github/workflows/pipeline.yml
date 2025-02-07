@@ -7,8 +7,6 @@ on:
   pull_request:
     branches: [main]
     types: [opened, synchronize]
-  #schedule:
-   # - cron: '30 5 * * 1,3'
 
 permissions: write-all
 
