@@ -2,7 +2,7 @@
 
 # Countries Fullstack
 
-A full-stack application with NestJS backend and React frontend.
+A full-stack application with NestJS backend and React frontend
 
 ## Project Structure
 
