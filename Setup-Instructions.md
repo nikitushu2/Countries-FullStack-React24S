@@ -152,4 +152,4 @@ The applications will be available at:
 - The backend includes CORS configuration for the frontend port (5180)
 - TypeScript is configured for both frontend and backend
 - ESLint and Prettier are set up for code formatting
-- Both applications include hot-reload functionality for development
+- Both applications include hot-reload functionality for development.
