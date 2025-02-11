@@ -1,0 +1,6 @@
+projectKey=countries
+serverUrl=http://localhost:9000
+serverVersion=25.2.0.102705
+dashboardUrl=http://localhost:9000/dashboard?id=countries
+ceTaskId=8dcd6579-819c-4e66-abad-9d7fd926d920
+ceTaskUrl=http://localhost:9000/api/ce/task?id=8dcd6579-819c-4e66-abad-9d7fd926d920
