@@ -5,6 +5,7 @@ import { AuthProvider } from "./context/AuthContext";
 import { Login } from "./components/Auth/Login";
 import { ProtectedRoute } from "./components/Auth/ProtectedRoute";
 import { Navigation } from "./components/Navigation";
+import ProtectedTestData from "./components/ProtectedTestData";
 
 function App() {
   return (
@@ -20,7 +21,7 @@ function App() {
                 path="/protected"
                 element={
                   <ProtectedRoute>
-                    <></>
+                    <ProtectedTestData />
                   </ProtectedRoute>
                 }
               />
