@@ -1,6 +1,8 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=nikitushu2_Countries-FullStack-React24S&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=nikitushu2_Countries-FullStack-React24S)
+
 # Countries Fullstack
 
-A full-stack application with NestJS backend and React frontend.
+A full-stack application with NestJS backend and React frontend
 
 ## Project Structure
 
